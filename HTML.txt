@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>PiedPiper</title>
+		<link href="style.css" rel="stylesheet">
+	</head>
+	
+	<body>
+	<div class="the problem"><h1>the problem</h1> <p>Beneath the flashy homepages of your favorite sites lurk Hooli™ and other evil corporations out to hoard and sell your most personal data.
+
+What was built to be the ultimate platform for the free sharing of knowledge has turned into a money-hungry monster feasting on our privacy and freedom.
+
+But fear not, for Pied Piper has the answer! And it’s simple:
+An autonomous peer-to-peer network featuring distributed storage powered by universal compression, accelerated scheduling allocation, and end-to-end encryption.
+
+Put even simpler — it’s the internet, completely decentralized.</p></div>
+
+
+
+
+
+
+	</body>
+</html>	
